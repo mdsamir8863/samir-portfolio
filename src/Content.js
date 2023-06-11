@@ -136,17 +136,17 @@ export const content = {
     service_content: [
       {
         title: "Frontend web Developer",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "I am highly motivated, dedicated, and eager to learn from experienced professionals in the industry. Joining your company would provide me with invaluable exposure to practical scenarios and an opportunity to contribute to your organization's success",
         logo: services_logo1,
       },
       {
         title: "ui / ux Developer",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "I am highly motivated, dedicated, and eager to learn from experienced professionals in the industry. Joining your company would provide me with invaluable exposure to practical scenarios and an opportunity to contribute to your organization's success",
         logo: services_logo2,
       },
       {
         title: "React Developer",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "I am highly motivated, dedicated, and eager to learn from experienced professionals in the industry. Joining your company would provide me with invaluable exposure to practical scenarios and an opportunity to contribute to your organization's success",
         logo: services_logo3,
       },
     ],
@@ -157,15 +157,15 @@ export const content = {
     image: person_project,
     project_content: [
       {
-        title: "Gym Website",
+        title: "Food Website",
         image: project1,
       },
       {
-        title: "Social Media web",
+        title: "Contact Manager App",
         image: project2,
       },
       {
-        title: "Creative Website",
+        title: "Next.js Quiz App",
         image: project3,
       },
     ],
