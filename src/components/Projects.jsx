@@ -1,7 +1,7 @@
 import { content } from "../Content";
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
-
+import { Link } from 'react-router-dom';
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/pagination";
@@ -46,9 +46,11 @@ const Projects = () => {
                 <img src={content.image} alt="..." />
                 <div className="flex flex-col gap-1 mt-2">
                   <h5 className="font-bold font-Poppins">{content.title}</h5>
-                  <button className="font-bold text-gray self-end">
-                    READ MORE
-                  </button>
+                  <Link className="self-end" to={'https://github.com/mdsamir8863'}>
+                    <button className="font-bold text-gray ">
+                      READ MORE
+                    </button>
+                  </Link>
                 </div>
               </SwiperSlide>
             ))}

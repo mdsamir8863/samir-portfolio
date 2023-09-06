@@ -68,7 +68,8 @@ export const content = {
     hero_content: [
       {
         count: " ",
-        text: "I AM FRESHER in Web development",
+        text:
+          " Dedicated and results-driven Frontend Developer with 4 years of proven expertise at AK Technology.",
       },
       {
         count: "30+",
@@ -115,8 +116,7 @@ export const content = {
         para: "Lorem ipsum text  dummy",
         logo: nodejs,
       },
-     
-      
+
       // {
       //   name: "Sketch",
       //   para: "Lorem ipsum text  dummy",
@@ -136,17 +136,20 @@ export const content = {
     service_content: [
       {
         title: "Frontend web Developer",
-        para: "I am highly motivated, dedicated, and eager to learn from experienced professionals in the industry. Joining your company would provide me with invaluable exposure to practical scenarios and an opportunity to contribute to your organization's success",
+        para:
+          "Experienced Frontend Developer with an impressive 4 year journey dedicated to shaping digital experiences. Adept at transforming creative visions into reality, I bring a blend of technical expertise, design sensibility, and a deep understanding of user behavior to every project.",
         logo: services_logo1,
       },
       {
         title: "ui / ux Developer",
-        para: "I am highly motivated, dedicated, and eager to learn from experienced professionals in the industry. Joining your company would provide me with invaluable exposure to practical scenarios and an opportunity to contribute to your organization's success",
+        para:
+          "Experienced UI/UX Designer with a proven track record of 4 years in crafting immersive digital experiences. Passionate about creating intuitive and visually appealing interfaces that captivate users.",
         logo: services_logo2,
       },
       {
         title: "React Developer",
-        para: "I am highly motivated, dedicated, and eager to learn from experienced professionals in the industry. Joining your company would provide me with invaluable exposure to practical scenarios and an opportunity to contribute to your organization's success",
+        para:
+          "Experienced React.js Developer with a proven track record of 4 years in designing and developing dynamic web applications. Proficient in leveraging React's component-based architecture to create efficient, responsive, and interactive user interfaces. Skilled in state management, data fetching, and optimizing performance.",
         logo: services_logo3,
       },
     ],
@@ -157,15 +160,15 @@ export const content = {
     image: person_project,
     project_content: [
       {
-        title: "Food Website",
+        title: "Flashfood clone",
         image: project1,
       },
       {
-        title: "Contact Manager App",
+        title: "Crud app nextJS",
         image: project2,
       },
       {
-        title: "Next.js Quiz App",
+        title: "Movie app - tmdb clone",
         image: project3,
       },
     ],
@@ -205,7 +208,8 @@ export const content = {
     subtitle: "FOR YOUR PROJECTS",
     image1: Hireme_person,
     image2: Hireme_person2,
-    para: "I am highly motivated, dedicated, and eager to learn from experienced professionals in the industry. Joining your company would provide me with invaluable exposure to practical scenarios and an opportunity to contribute to your organization's success",
+    para:
+      "I am highly motivated, dedicated, and eager to learn from experienced professionals in the industry. Joining your company would provide me with invaluable exposure to practical scenarios and an opportunity to contribute to your organization's success",
     btnText: "Hire Me",
   },
   Contact: {
